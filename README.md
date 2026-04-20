@@ -1,52 +1,40 @@
 # 🚀 AI Decision Intelligence System  
-### Production-grade AI system for decision intelligence — transforming research into scalable, context-aware insights  
-
-[![Website](https://img.shields.io/badge/Website-AditiKhare.com-black?style=for-the-badge)](https://aditikhare.com)  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-black?style=for-the-badge&logo=vercel)](https://your-vercel-app.vercel.app)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditi%20Khare-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditikhare)
-
----
-
-### 🌐 [AditiKhare.com — Enterprise AI Product Ecosystem | Decision Intelligence](https://aditikhare.com)
-
----
+### Production-grade AI system for transforming research into decision-ready intelligence  
 
 ## 👩‍💻 Author  
+**Aditi Khare — Enterprise AI Product, Platform & Applied Research Leader**  
 
-**Aditi Khare — AI Product, Platform & Applied Research Leader**  
-Writing on AI systems, product thinking, and applied research  
-
-- 🌐 Website: https://aditikhare.com  
-- 🔗 GitHub: https://github.com/aditikhare007/ai-decision-intelligence-system  
-- 🚀 Live Demo: https://your-vercel-app.vercel.app  
-- 💼 LinkedIn: https://www.linkedin.com/in/aditikhare  
+[![Live Product](https://img.shields.io/badge/Live-Product-black?style=for-the-badge&logo=vercel)](https://research-intelligence-engine.vercel.app/)  
+[![Website](https://img.shields.io/badge/AditiKhare.com-Enterprise%20AI-black?style=for-the-badge)](https://aditikhare.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditi%20Khare-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditi-khare-5840977b/)  
+[![GitHub](https://img.shields.io/badge/GitHub-AditiKhare-black?style=for-the-badge&logo=github)](https://github.com/aditikhare007)
 
 ---
 
-## 🧠 What This Is  
+## 🧠 Overview  
 
-AI Decision Intelligence System is a **production-oriented AI platform** designed to convert research, signals, and unstructured inputs into **decision-ready intelligence**.  
+AI Decision Intelligence System is a **production-grade AI product** designed to convert research and unstructured inputs into **decision-ready, context-aware intelligence**.  
 
-It bridges:
-- research → production  
-- information → decisions  
-- models → real-world systems  
-
----
-
-## ⚙️ Core Capabilities  
-
-- 🧠 Context Intelligence — structured understanding of inputs  
-- 🔍 Retrieval + Reasoning — multi-step insight generation  
-- 📊 Decision Outputs — actionable, structured insights  
-- ⚡ Scalable Systems — designed for production environments  
+It focuses on **systems, not just models**—bridging:
+- research → decisions  
+- inputs → structured intelligence  
+- AI outputs → real-world usability  
 
 ---
 
-## 🏗️ System Architecture  
+## ⚙️ Capabilities  
+
+- Context-aware intelligence processing  
+- Structured reasoning over complex inputs  
+- Research → decision transformation pipelines  
+- Scalable, production-ready system design  
+
+---
+
+## 🏗️ System Flow  
 
 - Input  
-- → Context Layer  
+- → Context Processing  
 - → Retrieval  
 - → Reasoning  
 - → Evaluation  
@@ -54,20 +42,20 @@ It bridges:
 
 ---
 
-## 🎯 Why This Matters  
+## 🎯 Positioning  
 
-Most AI systems stop at **generation**.  
-
-This system focuses on:
-- reliability  
-- structure  
-- decision usability  
-- production readiness  
-
-👉 shifting AI from output generation → **decision intelligence systems**
+This system represents a shift from:
+- model-centric AI → system-centric AI  
+- output generation → decision intelligence  
+- experimentation → production deployment  
 
 ---
 
 ## ⭐ Support  
-If this work is valuable, consider starring the repository to support  
-**continued advancement of enterprise AI systems and applied research at scale**.
+
+If this work is valuable, consider ⭐ starring the repository to support  
+**continued development of enterprise AI systems and applied research**.
+
+---
+
+© 2026 Aditi Khare. All rights reserved.
