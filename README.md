@@ -5,7 +5,7 @@
 
 ## 👩‍💻 Author — Aditi Khare  
 
-AI Product, Platform & Applied Research Leader  
+Enterprise AI Product, Platform & Applied Research Leader  
 Writing on AI research, product thinking, and system architecture  
 
 ## 🌐 Presence  
