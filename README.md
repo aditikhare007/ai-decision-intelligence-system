@@ -3,26 +3,16 @@
 
 ### 🌐 [AditiKhare.com — Enterprise AI Product Ecosystem | Decision Intelligence](https://aditikhare.com)
 
-# 🚀 IntelliScope AI — Decision Intelligence System  
-### Live AI Workspace for transforming research into real-time, actionable insights  
+## 👩‍💻 Author — Aditi Khare  
 
-### 🌐 [AditiKhare.com — Enterprise AI Product Ecosystem | Decision Intelligence](https://aditikhare.com)
+AI Product, Platform & Applied Research Leader  
+Writing on AI research, product thinking, and system architecture  
 
-<p align="left">
-  <a href="https://research-intelligence-engine.vercel.app/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="28" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aditi-khare-5840977b/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/aditikhare007" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28" />
-  </a>
-</p>
+- 🌐 Website: https://aditikhare.com  
+- 🔗 GitHub Repository: AI Decision Intelligence System  
+- 🚀 Live Product: https://research-intelligence-engine.vercel.app/  
+- 💼 LinkedIn: https://www.linkedin.com/in/aditi-khare-5840977b/  
 
----
 ---
 
 ## 🧠 Overview  
