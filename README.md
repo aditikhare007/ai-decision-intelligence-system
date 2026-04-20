@@ -3,10 +3,19 @@
 
 ### 🌐 [AditiKhare.com — Enterprise AI Product Ecosystem | Decision Intelligence](https://aditikhare.com)
 
-[![Live Workspace](https://img.shields.io/badge/Live-Workspace-black?style=for-the-badge&logo=vercel)](https://research-intelligence-engine.vercel.app/)  
-[![Website](https://img.shields.io/badge/AditiKhare.com-Enterprise%20AI-black?style=for-the-badge)](https://aditikhare.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditi%20Khare-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditi-khare-5840977b/)  
-[![GitHub](https://img.shields.io/badge/GitHub-aditikhare007-black?style=for-the-badge&logo=github)](https://github.com/aditikhare007)
+<p align="left">
+  <a href="https://research-intelligence-engine.vercel.app/">
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/rocket.png" alt="Live Product"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aditi-khare-5840977b/">
+    <img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/aditikhare007">
+    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
