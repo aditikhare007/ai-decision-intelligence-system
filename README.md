@@ -8,11 +8,12 @@
 AI Product, Platform & Applied Research Leader  
 Writing on AI research, product thinking, and system architecture  
 
-- 🌐 Website: https://aditikhare.com  
-- 🔗 GitHub Repository: https://github.com/aditikhare007/ai-decision-intelligence-system
-- 🚀 Live Product: https://research-intelligence-engine.vercel.app/  
-- 💼 LinkedIn: https://www.linkedin.com/in/aditi-khare-5840977b/  
+## 🌐 Presence  
 
+🌐 Website: [aditikhare.com](https://aditikhare.com)  
+🔗 GitHub Repository: [AI Decision Intelligence System](https://github.com/aditikhare007/ai-decision-intelligence-system)  
+🚀 Live Product: [Research Intelligence Engine](https://research-intelligence-engine.vercel.app/)  
+💼 LinkedIn: [Aditi Khare](https://www.linkedin.com/in/aditi-khare-5840977b/)  
 ---
 
 ## 🧠 Overview  
