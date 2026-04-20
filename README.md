@@ -1,53 +1,49 @@
-# 🚀 AI Decision Intelligence System  
-### Production-grade AI system for transforming research into decision-ready intelligence  
+# 🚀 IntelliScope AI — Decision Intelligence System  
+### Live AI Workspace for transforming research into real-time, actionable insights  
 
-## 👩‍💻 Author  
-**Aditi Khare — Enterprise AI Product, Platform & Applied Research Leader**  
+### 🌐 [AditiKhare.com — Enterprise AI Product Ecosystem | Decision Intelligence](https://aditikhare.com)
 
-[![Live Product](https://img.shields.io/badge/Live-Product-black?style=for-the-badge&logo=vercel)](https://research-intelligence-engine.vercel.app/)  
+[![Live Workspace](https://img.shields.io/badge/Live-Workspace-black?style=for-the-badge&logo=vercel)](https://research-intelligence-engine.vercel.app/)  
 [![Website](https://img.shields.io/badge/AditiKhare.com-Enterprise%20AI-black?style=for-the-badge)](https://aditikhare.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditi%20Khare-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditi-khare-5840977b/)  
-[![GitHub](https://img.shields.io/badge/GitHub-AditiKhare-black?style=for-the-badge&logo=github)](https://github.com/aditikhare007)
+[![GitHub](https://img.shields.io/badge/GitHub-aditikhare007-black?style=for-the-badge&logo=github)](https://github.com/aditikhare007)
 
 ---
 
 ## 🧠 Overview  
 
-AI Decision Intelligence System is a **production-grade AI product** designed to convert research and unstructured inputs into **decision-ready, context-aware intelligence**.  
+IntelliScope AI is a **decision intelligence system** designed to transform complex research into **real-time, actionable insights** through query-driven exploration.  
 
-It focuses on **systems, not just models**—bridging:
-- research → decisions  
-- inputs → structured intelligence  
-- AI outputs → real-world usability  
+It enables dynamic interaction with unstructured data—shifting from:
+- static analysis → interactive reasoning  
+- information access → decision support  
+- isolated queries → continuous intelligence workflows  
 
 ---
 
-## ⚙️ Capabilities  
+## ⚙️ Core Capabilities  
 
-- Context-aware intelligence processing  
-- Structured reasoning over complex inputs  
-- Research → decision transformation pipelines  
-- Scalable, production-ready system design  
+- Real-time insight generation  
+- Decision-ready outputs  
+- Scalable, lightweight architecture  
+- Seamless human–AI interaction  
 
 ---
 
 ## 🏗️ System Flow  
 
-- Input  
+- Query Input  
 - → Context Processing  
 - → Retrieval  
 - → Reasoning  
-- → Evaluation  
+- → Insight Generation  
 - → Decision Output  
 
 ---
 
 ## 🎯 Positioning  
 
-This system represents a shift from:
-- model-centric AI → system-centric AI  
-- output generation → decision intelligence  
-- experimentation → production deployment  
+IntelliScope AI represents a shift toward **interactive decision intelligence systems**, where users move beyond querying data to actively exploring and reasoning with it in real time.  
 
 ---
 
